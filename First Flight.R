@@ -17,7 +17,7 @@ chears <- get_match_stats(match_id = 14790)
 #5.get_player_matches_stats() - How to get player ID? Available in 9
 auba <- get_player_matches_stats(player_id = 318)
 
-#6.get_player_seasons_stats()
+#6.get_player_seasons_stats() - How to get player ID? Available in 9
 auba <- get_player_seasons_stats(player_id = 318)
 
 #7.get_player_shots()
@@ -28,3 +28,4 @@ get_team_meta(team_name = "Arsenal")
 
 #9.get_team_players_stats
 ars_19 <- get_team_players_stats(team_name = "Arsenal",year = 2019)
+
